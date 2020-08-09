@@ -1,0 +1,1 @@
+char* city = "Baltim";
